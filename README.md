@@ -1,4 +1,4 @@
-![Colaborative-Notepad]
+# *Colaborative-Notepad*
 **A client/server application that allows simultaneous editing of text files.**
 
 ## The project aims to develop a client/server application for simultaneous text file editing.  
